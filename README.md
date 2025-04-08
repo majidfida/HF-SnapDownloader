@@ -42,10 +42,6 @@
 
 When you run the script, it will prompt:
 
-```
-Please paste one or more Hugging Face model links (separated by commas):
-```
-
 Enter the links (e.g., https://huggingface.co/example/model1, https://huggingface.co/example/model2`) and press Enter. The tool will then download the models sequentially, saving each in a folder that replicates the original repository name (with "/" replaced by "_").
 
 ## Credits
